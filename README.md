@@ -36,20 +36,12 @@ npm run watch
 
 On page `load`, a list of all `books`
 
-<img src="https://user-images.githubusercontent.com/101581634/234861038-20358f44-6ffd-42a8-b555-08f1784c692d.png" width="100%"/>
-
- markup (example single card div inside card-list div): 
-<!-- ![bookMarkUp]() -->
-<img src="https://user-images.githubusercontent.com/101581634/234864812-5663b933-95a5-408a-835e-06a5cc67d813.png" width="100%"/>
 
 
 UI (example card):
 <!-- ![bookUI]() -->
 <img src="https://user-images.githubusercontent.com/101581634/235060554-78287a66-75ee-4c10-8365-c3d44864a19e.png" width="100%"/>
 
-Data mapping:
-<!-- ![dataMarkUp]() -->
-<img src="https://user-images.githubusercontent.com/101581634/235060568-d8b51431-11e8-45ac-866c-c2cb9dae3d9f.png" width="100%"/>
 
 
 - The books  shown on page `load`
